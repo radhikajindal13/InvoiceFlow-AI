@@ -1,0 +1,2 @@
+invoice_number,client_name,amount,due_date,recipient_email
+INV-API-001,Acme Corp,45000,2026-04-15,accounts@acme.com
